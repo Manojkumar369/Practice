@@ -1,0 +1,9 @@
+<suite name="suiteDemo" >
+<test name="testDemo" >
+<classes>
+<class name="TestngDemo.TestngClass" />
+</classes>
+</test>
+
+
+</suite>
