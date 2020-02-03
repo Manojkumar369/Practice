@@ -5,6 +5,7 @@ public class Bbbb {
 	{
 		System.out.println("bbbb");
 		System.out.println("changed, need to pull from git");
+		System.out.println("bbbb");
 	}
 
 }
